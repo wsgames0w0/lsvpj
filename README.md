@@ -12,6 +12,9 @@
     - CIFAR10の分類
     - CIFAR10の潜在空間の可視化
 
+- ex2.ipynb
+    - FashionMNISTの潜在空間の可視化
+
 - ch3.ipynb
     - Intel Image Classificationの分類
 
@@ -26,3 +29,6 @@
 - 2026年06月22日
     - ex1.ipynbの追加
     - ch2.ipynb、ch3.ipynbの修正
+
+- 2026年06月26日
+    - ex2.ipynbの追加
