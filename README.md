@@ -17,6 +17,10 @@
 
 - ch3.ipynb
     - Intel Image Classificationの分類
+    - Intel Image Classificationの潜在空間の可視化
+
+- ex3.ipynb
+    - Intel Image Classification: SimpleCNN・CNN・VGGNet・ResNetの比較
 
 ## 備考
 
@@ -27,8 +31,13 @@
 ## 変更履歴
 
 - 2026年06月22日
+    - ch2.ipynbの修正
+    - ch3.ipynbの修正
     - ex1.ipynbの追加
-    - ch2.ipynb、ch3.ipynbの修正
 
 - 2026年06月26日
     - ex2.ipynbの追加
+
+- 2026年06月29日
+    - ch3.ipynbの修正
+    - ex3.ipynbの追加
