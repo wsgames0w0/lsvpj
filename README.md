@@ -2,16 +2,6 @@
 
 ## ファイル
 
-- model
-    - SimpleCNN.pth
-        - データ拡張無しのI2C学習済みモデル: CNN
-    - CNN.pth
-        - I2C学習済みモデル: CNN
-    - VGGNet.pth
-        - I2C学習済みモデル: VGGNet
-    - ResNet.pth
-        - I2C学習済みモデル: ResNet
-
 - ch1.ipynb
     - MNISTの分類
 
@@ -48,10 +38,6 @@
 - 2026年06月26日
     - ex2.ipynbの追加
 
-- 2026年06月29日
+- 2026年06月30日
     - ch3.ipynbの修正
     - ex3.ipynbの追加
-
-- 2026年06月30日
-    - ex3.ipynbの修正
-    - modelディレクトリ: 学習済みモデルの追加
